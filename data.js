@@ -1,44 +1,44 @@
 var info = [
     {
-        Title: "The Shawshank Redemption",
-        Year: 1994,
-        Votes: 678790,
-        Rating: 9.2,
-        Rank: 1
+        title: "The Shawshank Redemption",
+        year: 1994,
+        votes: 678790,
+        rating: 9.2,
+        rank: 1
     },
     {
-        Title: "The Godfather",
-        Year: 1972,
-        Votes: 511495,
-        Rating: 9.2,
-        Rank: 2
+        title: "The Godfather",
+        year: 1972,
+        votes: 511495,
+        rating: 9.2,
+        rank: 2
     },
     {
-        Title: "The Godfather: Part II",
-        Year: 1974,
-        Votes: 319352,
-        Rating: 9,
-        Rank: 3
+        title: "The Godfather: Part II",
+        year: 1974,
+        votes: 319352,
+        rating: 9,
+        rank: 3
     },
     {
-        Title: "The Good, the Bad and the Ugly",
-        Year: 1966,
-        Votes: 213030,
-        Rating: 8.9,
-        Rank: 4
+        title: "The Good, the Bad and the Ugly",
+        year: 1966,
+        votes: 213030,
+        rating: 8.9,
+        rank: 4
     },
     {
-        Title: "My Fair Lady",
-        Year: 1964,
-        Votes: 533848,
-        Rating: 8.9,
-        Rank: 5
+        title: "My Fair Lady",
+        year: 1964,
+        votes: 533848,
+        rating: 8.9,
+        rank: 5
     },
     {
-        Title: "12 Angry Men",
-        Year: 1957,
-        Votes: 164558,
-        Rating: 8.9,
-        Rank: 6
+        title: "12 Angry Men",
+        year: 1957,
+        votes: 164558,
+        rating: 8.9,
+        rank: 6
     }
 ]
