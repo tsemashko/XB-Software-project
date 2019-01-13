@@ -1,0 +1,25 @@
+.menu, .menu .webix_list{
+    background-color:#eee;
+}
+
+.center-align{
+    text-align: center;
+}
+
+.remove:hover {
+    color: #7385cf;
+    cursor: pointer;
+  }
+
+.table-hover{
+    background-color: #F4F5F9;
+}
+
+.first-users{
+    background-color: #b5d8db;
+}
+
+.removeUser {
+    justify-self: center;
+    align-self: center;
+}
